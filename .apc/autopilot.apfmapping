@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<autopilotfilemapping:AutoPilotFileMapping xmlns:autopilotfilemapping="www.autoesl.com/autopilotfilemapping">
+  <source>
+    <originFiles name="DDS.vhdl" path="C:\Users\lesag\Documents\University\VHDL_Synthesizer\VHDL_Synthesizer\DDS.vhdl"/>
+    <originFiles name="Controller.vhdl" path="C:\Users\lesag\Documents\University\VHDL_Synthesizer\VHDL_Synthesizer\Controller.vhdl"/>
+  </source>
+  <testbench/>
+</autopilotfilemapping:AutoPilotFileMapping>
