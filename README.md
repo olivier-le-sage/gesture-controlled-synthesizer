@@ -1,5 +1,5 @@
 
-A music synthesizer activated by hand gesture commands.
+A music synthesizer activated by hand gesture commands. (WIP!)
 
 Synthesizer components:
 - Control circuit
